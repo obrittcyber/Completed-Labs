@@ -13,3 +13,5 @@ Using the **AWS Management Console**, I will work with tools such as:
 These tools will help track metrics, analyze logs, set alarms, and provide visibility into the behavior and performance of deployed applications.
 
 This lab focuses on learning how to maintain and optimize cloud resources effectively using built-in AWS monitoring capabilities.
+
+![Lab Introduction Screenshot](./Lab%20Intro.png)
